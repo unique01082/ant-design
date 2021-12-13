@@ -1,6 +1,6 @@
 {
-  "name": "antd",
-  "version": "4.17.3",
+  "name": "@baolq/antd",
+  "version": "0.0.1-4.17.3",
   "description": "An enterprise-class UI design language and React components implementation",
   "title": "Ant Design",
   "keywords": [
@@ -116,11 +116,13 @@
     "@babel/runtime": "^7.12.5",
     "@ctrl/tinycolor": "^3.4.0",
     "array-tree-filter": "^2.1.0",
+    "autoprefixer": "^10.4.0",
     "classnames": "^2.2.6",
     "copy-to-clipboard": "^3.2.0",
     "lodash": "^4.17.21",
     "memoize-one": "^6.0.0",
     "moment": "^2.25.3",
+    "postcss": "^8.4.5",
     "rc-cascader": "~2.3.0",
     "rc-checkbox": "~2.3.0",
     "rc-collapse": "~3.1.0",

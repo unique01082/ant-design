@@ -259,6 +259,7 @@ const InternalButton: React.ForwardRefRenderFunction<unknown, ButtonProps> = (pr
       <a {...linkButtonRestProps} className={classes} onClick={handleClick} ref={buttonRef}>
         {iconNode}
         {kids}
+        {iconNode}
       </a>
     );
   }
@@ -273,6 +274,7 @@ const InternalButton: React.ForwardRefRenderFunction<unknown, ButtonProps> = (pr
     >
       {iconNode}
       {kids}
+      {iconNode}
     </button>
   );
 
